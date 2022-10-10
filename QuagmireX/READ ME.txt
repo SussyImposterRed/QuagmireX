@@ -1,0 +1,9 @@
+Thanks for downloading QuagmireX by 0x54#3538
+
+THIS IS A RETHEME OF PETER X BY CATNOTADOG#0001 ALL CREDIT FOR CODE GOES TO HIM
+
+THIS IS IN BETA PHASE IM STILL TRYING TO MAKE STUFF WORK SO THEMES WONT WORK
+
+Setup: open syndir.txt put your synapse directory on the first line and save ignore the other line 
+Then simply run Quagmirex and you will be fine
+(QuagmireX can be run from any folder)
