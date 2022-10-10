@@ -1,0 +1,15 @@
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\bin\Debug\PeterX.exe.config
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\bin\Debug\PeterX.exe
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\bin\Debug\PeterX.pdb
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\bin\Debug\sxlib.dll
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.csproj.AssemblyReference.cache
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.csproj.SuggestedBindingRedirects.cache
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.Form1.resources
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.Form2.resources
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.Properties.Resources.resources
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.synxpath.resources
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.csproj.GenerateResource.cache
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.csproj.CoreCompileInputs.cache
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.csproj.CopyComplete
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.exe
+C:\Users\taste\Downloads\PeterX-1 (1)\PeterX-1\WindowsFormsApp1\obj\Debug\PeterX.pdb
